@@ -36,7 +36,7 @@ a:hover{color : blue;text-decoration : underline; }
 </style>
 </head>
 <body style="margin : 40px 40px 60px 40px">
-	<img id="profile" src = "https://avatars.githubusercontent.com/u/583231?v=4" alt="@johndoe" style="width:215px ; height:215px ; border-radius:215px ; float:left ; margin : 0px 60px 0px 20px ;"><br>
+	<img id="profile" src = "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/LightedMotherboardBig.jpg" alt="@johndoe" style="width:215px ; height:215px ; border-radius:215px ; float:left ; margin : 0px 60px 0px 20px ;"><br>
 	<h1 id="name" style = "font-family : roboto condensed ; margin-bottom : 15px ; margin-top : 0px  ">John Doe</h1>
 	<p id="bio" style = "margin-bottom : 15px ;">Bio goes here</p>
 	<p style = "margin :15px 0px;"><i class="material-icons" style = "float :left">place</i>&ensp;<span id="location">Location</span></p>
